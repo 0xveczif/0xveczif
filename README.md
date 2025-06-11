@@ -2,8 +2,6 @@
 - 👀 I’m interested in Securing digital world
 - 🌱 I’m currently learning Hacking ethically
 - 💞️ I’m looking to collaborate on Bug Hunting and Penetration testing
-- 📫 Reach me : veczify@gmail.com
-- 😄 Pronouns: Security Researcher
 - ⚡ Fun fact: Security is myth!!
 
 <!---
