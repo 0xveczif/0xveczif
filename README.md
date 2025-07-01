@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Portfolio
+# 🛡️ My Portfolio
 
 Welcome to my GitHub profile! I’m a cybersecurity enthusiast with a strong interest in **penetration testing**, **red teaming**, and **offensive security operations**. My work revolves around breaking and hardening systems — identifying vulnerabilities, exploiting them in a controlled environment, and helping organizations improve their security posture.
 
